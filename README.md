@@ -1,4 +1,5 @@
 # YonGit
-- ML-/-DL
-- Data Engineering
+- ML-/-DL branch
+- Data Engineering branch
+
 
